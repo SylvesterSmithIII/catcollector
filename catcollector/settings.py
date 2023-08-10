@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-gjscojx77v^f-kup@h96p6aud+1r6s%_1^$un(-s9he#mp$_i)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['catcollector-ots2.onrender.com']
+ALLOWED_HOSTS = ['catcollector-ots2.onrender.com', '127.0.0.1']
 
 
 # Application definition
